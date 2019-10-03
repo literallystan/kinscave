@@ -29,7 +29,7 @@ Clone the repository:
 Rust - The Language Used
 Rocket - The web framework used
 
-##Authors
+## Authors
 
  - Adam Hawkins - <i>Initial Work</i>
 
